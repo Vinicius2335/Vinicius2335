@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Vinicius Vieira Goulart
--
+
 - 👀 Estou aprendendo programação, meu principal interesse é java porem estudo bastante html, css e agora o uso do git/github
-- 
+
 - 🌱 I’m currently learning java
-- 
+
 - 💞️ I’m looking to collaborate on ...
-- 
+
 - 📫 How to reach me ...
--
+
 
 
 <!---
