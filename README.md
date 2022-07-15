@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hello Stranger, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px" height="30px"> I’m Vinicius Vieira
+   Hello Stranger, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> I’m Vinicius Vieira
 </h1>
 
 <br>
