@@ -4,19 +4,20 @@
 
 <br>
 
-<p>
-  Estou iniciando nesse meio da programação, meu foco principal é JAVA porêm estudo as vezes HTML, CSS, JS e agora aprendendo sobre o git/github.
-</p>
+-  🏃🏻 Estou iniciando nesse meio da programação.
+-  👊🏻 Meu foco principal é JAVA, porêm estudo as vezes HTML, CSS e JS.
+-  🙏🏻 Agora aprendendo sobre o git/github.
+
 
 <br>
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinicius2335&show_icons=true&include_all_commits=true&count_private=default&theme=midnight-purple&layout=compact" alt="GitHub Stats for Vinicius2335" width="500">
+<br>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2335&layout=compact&theme=midnight-purple&langs_count=5" width="500">
-
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2335&layout=compact&theme=midnight-purple&langs_count=5" width="500">
+</div>
 
 <!---
 Vinicius2335/Vinicius2335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,5 +34,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinicius2335&theme=midnight-purple" width="600">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinicius2335&show_icons=true&include_all_commits=true&count_private=default&theme=midnight-purple&layout=compact" alt="GitHub Stats for Vinicius2335" width="500">
 
 --->
