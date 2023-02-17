@@ -1,12 +1,12 @@
 <h1 align="center">
-   Hello Stranger, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> I’m Vinicius Vieira
+   Hello, 👋 I’m Vinicius Vieira
 </h1>
 
 <br>
 
 -  🏃🏻 Estou iniciando nesse meio da programação.
--  👊🏻 Meu foco principal é JAVA e SpringBoot, porêm estudo as vezes HTML, CSS.
--  🙏🏻 Agora aprendendo sobre o Angular.
+-  👊🏻 Meu foco principal é JAVA e SpringBoot.
+-  🙏🏻 Agora aprendendo sobre o React.
 
 
 <br>
@@ -45,5 +45,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2335&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2335&layout=compact&theme=midnight-purple&langs_count=5" width="500">
 </div>
+
+ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
 --->
