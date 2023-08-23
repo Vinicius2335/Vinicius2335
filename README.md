@@ -17,7 +17,7 @@
 
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2335&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2335&layout=compact&theme=midnight-purple&langs_count=5" width="500"/>
    </a>
 </div>
 
